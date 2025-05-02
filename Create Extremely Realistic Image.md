@@ -1,4 +1,4 @@
-# Extremely Realistic Image
+# Extremely Realistic Image using SORA ChatGPT
 
 An extremely unremarkable iPhone (selfie/photo) with no clear subject or framing — just a careless snapshot.  
 The photo includes:
