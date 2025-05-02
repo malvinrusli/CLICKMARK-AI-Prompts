@@ -1,4 +1,4 @@
-# Extremely Realistic Image using SORA ChatGPT
+# Extremely Realistic Image using GPT 4o Image Generation
 
 An extremely unremarkable iPhone (selfie/photo) with no clear subject or framing — just a careless snapshot.  
 The photo includes:
