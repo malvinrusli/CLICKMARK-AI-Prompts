@@ -1,0 +1,2 @@
+# Kerajinan Kertas
+Buat ilustrasi bergaya kerajinan kertas (paper craft) dari emoji [🦆]. Gunakan tekstur kertas warna-warni yang dilapisi berlapis-lapis, dengan lipatan yang terlihat dan bayangan lembut untuk menciptakan kedalaman. Pusatkan emoji [🦆] di atas latar belakang putih bersih dengan ruang negatif. Gunakan pencahayaan studio yang lembut untuk menonjolkan tekstur dan tepi kertas. Desainnya harus terasa menyenangkan, buatan tangan, dan minimalis.
