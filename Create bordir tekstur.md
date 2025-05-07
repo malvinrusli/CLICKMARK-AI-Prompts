@@ -1,0 +1,2 @@
+# Create Bordir Tekstur
+Sebuah patch bordir yang dirancang dengan rumit, menampilkan desain simpul geometris abstrak yang terinspirasi dari logo (OpenAI), dijahit dengan benang berwarna hitam dan beige. Teksturnya kaya dan realistis, dengan pola benang yang terlihat jelas serta pantulan cahaya halus. Patch ini memiliki tepian berbentuk bunga yang lembut dan membulat, ditampilkan di atas latar belakang hitam polos. Pencahayaan studio menekankan kedalaman dan keahlian dari hasil bordiran, membuat benangnya tampak nyata dan berdimensi.
