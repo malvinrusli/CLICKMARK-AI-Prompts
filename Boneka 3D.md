@@ -6,4 +6,4 @@ Boneka ini menampilkan mata oval besar yang ramah, terbuat dari kain berwarna hi
 
 Materialnya tampak seperti beludru dan diisi dengan sangat penuh, memberikan kesan nyaman seperti bantal. Latar belakangnya berwarna hitam pekat, menonjolkan nada putih hangat dan memberikan tampilan plush yang cerah dan terisolasi.
 
-Pencahayaannya lembut dan tersebar, menciptakan bayangan halus yang menonjolkan lekuk dan tekstur mainan tersebut.
+Pencahayaannya lembut dan tersebar, menciptakan bayangan halus yang menonjolkan lekuk dan tekstur mainan tersebut. 
