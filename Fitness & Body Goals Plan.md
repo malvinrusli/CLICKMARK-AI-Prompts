@@ -1,35 +1,32 @@
-# 🏋️‍♀️ Fitness & Body Goals Plan
+# Rencana Kebugaran & Tujuan Tubuh
 
-**Goal:**  
-Build a weekly workout routine that fits into a busy schedule and targets specific body goals (e.g. toned legs, visible abs).  
-**Requirements:**  
-- Balance gym and non-gym options  
-- Energizing, not exhausting  
-- Time-efficient
+## 🎯 Tujuan
+Membangun rutinitas latihan mingguan yang sesuai dengan jadwal padat dan menargetkan tujuan tubuh spesifik seperti:
+- Kaki yang kencang  
+- Perut berotot
 
----
+## ✅ Persyaratan
+- Seimbang antara opsi gym dan non-gym  
+- Memberikan energi, bukan menguras  
+- Efisien waktu  
 
-## 🎯 Target Areas
-- **Toned Legs**
-- **Visible Abs**
-- **Overall Strength & Endurance**
-- **Increased Energy & Mobility**
+## 🧍‍♀️ Area Sasaran
+- **Kaki yang Kencang**  
+- **Perut Berotot**  
+- **Kekuatan & Daya Tahan Menyeluruh**  
+- **Energi & Mobilitas yang Meningkat**
 
----
+## 📅 Jadwal Latihan Mingguan
 
-## 📅 Weekly Workout Schedule
+| Hari     | Area Fokus                 | Jenis Latihan                    | Durasi         | Gym / Non-Gym    |
+|----------|----------------------------|----------------------------------|----------------|------------------|
+| Senin    | Kaki + Kardio              | Sirkuit Kaki + HIIT              | 45 menit       | Gym / Rumah      |
+| Selasa   | Inti + Mobilitas           | Pilates / Alur Abs               | 30 menit       | Non-Gym          |
+| Rabu     | Seluruh Tubuh + Kekuatan   | Latihan Resistensi               | 45–60 menit    | Gym              |
+| Kamis    | Pemulihan Aktif           | Yoga / Jalan Santai              | 30 menit       | Non-Gym          |
+| Jumat    | Pembakaran Tubuh Bawah     | Glutes & Hamstring               | 40 menit       | Gym / Rumah      |
+| Sabtu    | Inti + Kardio              | Sirkuit Abs + Dance/Zumba        | 30–45 menit    | Non-Gym          |
+| Minggu   | Istirahat atau Stretching Ringan | Yoga Lembut               | 15–20 menit    | Non-Gym          |
 
-| Day        | Focus Area          | Workout Type       | Duration | Gym / Non-Gym |
-|------------|---------------------|--------------------|----------|---------------|
-| **Monday** | Legs + Cardio       | Leg Circuit + HIIT | 45 min   | Gym / Home    |
-| **Tuesday**| Core + Mobility     | Pilates / Abs Flow | 30 min   | Non-Gym       |
-| **Wednesday** | Full Body + Strength | Resistance Training | 45–60 min | Gym           |
-| **Thursday**| Active Recovery     | Yoga / Light Walk  | 30 min   | Non-Gym       |
-| **Friday** | Lower Body Burn     | Glutes & Hamstrings | 40 min   | Gym / Home    |
-| **Saturday**| Core + Cardio       | Ab Circuit + Dance/Zumba | 30–45 min | Non-Gym   |
-| **Sunday** | Rest or Light Stretch| Gentle Yoga        | 15–20 min | Non-Gym       |
-
----
-
-## 🧘‍♀️ Optional Add-Ons
-- 10-min morn
+## 🧘‍♀️ Tambahan Opsional
+- Peregangan atau latihan ringan pagi selama **10 menit**
