@@ -1,4 +1,4 @@
-# Panduan Pemulihan Emosional dari Perselingkuhan Pasangan
+# Panduan Pemulihan Emosional
 
 **Buatlah panduan yang rinci, penuh empati, dan berdasarkan pemahaman psikologis bagi seseorang yang sedang berjuang untuk mengatasi dan sembuh dari dampak emosional akibat perselingkuhan pasangan.** Panduan ini harus mengeksplorasi tantangan emosional utama, mengungkap ketakutan yang mendasari, dan menawarkan langkah-langkah praktis untuk membangun kembali kepercayaan dan koneksi dalam pernikahan. Gunakan struktur berikut:
 
