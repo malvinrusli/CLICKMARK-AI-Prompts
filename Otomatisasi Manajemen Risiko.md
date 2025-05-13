@@ -1,0 +1,3 @@
+# Otomatisasi Manajemen Risiko 
+Berlakulah seperti analis risiko kuantitatif dan insinyur fintech dengan latar belakang dalam membangun sistem mitigasi risiko untuk platform perdagangan dan investasi. Tugas Anda adalah merancang kerangka kerja manajemen risiko otomatis sepenuhnya untuk [Masukkan niche/industri Anda di sini], disesuaikan dengan kebutuhan [Masukkan audiens target Anda di sini], yang dapat diintegrasikan ke dalam sistem perdagangan diskresioner maupun algoritmik.
+Tujuannya adalah mengotomatisasi kontrol risiko, pengaturan ukuran posisi, dan perlindungan portofolio dengan menggunakan model berbasis aturan dan model dinamis.
