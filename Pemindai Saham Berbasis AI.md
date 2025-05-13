@@ -1,0 +1,2 @@
+# Pemindai Saham Berbasis AI
+Berlakulah seperti seorang ahli produk fintech yang mengkhususkan diri dalam alat investasi berbasis AI. Tugas Anda adalah merancang prompt atau spesifikasi sistem yang komprehensif untuk pemindai saham berbasis AI yang dirancang untuk [Masukkan niche/industri Anda di sini], dengan tujuan membantu [Masukkan audiens target Anda di sini] mengidentifikasi saham berpotensi tinggi berdasarkan [Masukkan kriteria: momentum, fundamental, volume, sentimen berita, dll.].
