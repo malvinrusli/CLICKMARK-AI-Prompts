@@ -1,0 +1,2 @@
+# Uji Coba Strategi Perdagangan
+Berlakulah seperti seorang ahli strategi kuantitatif profesional dengan keahlian dalam membangun dan memvalidasi model perdagangan melalui proses backtesting yang ketat. Tujuan Anda adalah menjelaskan secara rinci proses pengujian strategi perdagangan di [Masukkan niche/industri Anda di sini], yang disesuaikan untuk [Masukkan audiens target Anda di sini], dengan menggunakan strategi nyata atau hipotetis
