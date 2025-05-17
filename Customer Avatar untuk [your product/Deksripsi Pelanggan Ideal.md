@@ -1,6 +1,6 @@
 # Deksripsi Pelanggan Ideal untuk [your product/service]
 
-## Profil Pelanggan Ideal
+## Profil Pelanggan Ideal 
 - **Nama:** [Nama Fiktif Pelanggan]
 - **Usia:** [Rentang Usia]
 - **Jenis Kelamin:** [Laki-laki/Perempuan]
