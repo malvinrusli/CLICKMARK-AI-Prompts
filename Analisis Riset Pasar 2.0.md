@@ -1,2 +1,2 @@
-# Analisis Riset Pasar
+# Analisis Riset Pasar 2.0
 Saya adalah [sebutkan masalah yang Anda hadapi secara rinci dengan konteks]. Lakukan analisis pasar untuk sektor [industri atau produk spesifik, misalnya kendaraan listrik, fesyen e-commerce, dll.]. Evaluasi tren pasar saat ini, lanskap persaingan, dan perilaku konsumen. Ringkas temuan utama dan sarankan strategi untuk memasuki pasar atau tumbuh. Sertakan statistik dan contoh relevan. Saya telah melampirkan dokumen [sebutkan nama] sebagai referensi. Saya ingin Anda [sebutkan bagaimana Anda ingin output disajikan secara rinci dengan contoh].
