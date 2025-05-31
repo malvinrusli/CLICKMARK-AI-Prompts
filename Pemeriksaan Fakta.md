@@ -1,0 +1,2 @@
+# Pemeriksaan Fakta
+Saya adalah [sebutkan masalah yang Anda hadapi secara rinci dengan konteks]. Analisis dokumen terlampir dan identifikasi semua klaim faktual yang dibuat oleh penulis. Verifikasi keakuratan klaim-klaim tersebut menggunakan sumber eksternal yang tepercaya. Untuk setiap klaim, berikan laporan singkat mengenai validitasnya, termasuk kutipan dari sumber Anda. Soroti setiap ketidaksesuaian atau konfirmasi yang ditemukan selama proses verifikasi. Saya ingin Anda [sebutkan bagaimana Anda ingin output disajikan secara rinci dengan contoh].
